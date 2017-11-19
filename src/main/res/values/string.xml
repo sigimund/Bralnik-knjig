@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aplikacija Bralnik</string>
+    <string name="naslov">Bralnik</string>
+    <string name="sample">sample text</string>
+    <string name="img">slika</string>
+    <string name="setting">Nastavitve</string>
+    <string name="about_us">O nas</string>
+    <string name="help">pomoc</string>
+    <string name="nal">Naloži knjige</string>
+    <string name="sprem">Spremeni pogled</string>
+    <string name="drug">Drugi zavihek</string>
+    <string name="Beri">Beri</string>
+    <string name="poslji">Pošlji</string>
+    <string name="informacije">Tukaj se pišejo informacije o knjigi</string>
+    <string name="Povzetek">Povzetek knjige</string>
+    <string name="isci">Išči</string>
+</resources>
+

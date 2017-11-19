@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/auto-res">
+    <item
+        android:id="@+id/nal"
+        android:title="@string/nal"
+        app:showAsAction="always">
+    </item>
+        <item
+            android:id="@+id/sprem"
+            android:title="@string/sprem"
+            app:showAsAction="always">
+        </item>
+        <item
+            android:id="@+id/drug"
+            android:title="@string/drug"
+            app:showAsAction="always">
+        </item>
+        <item
+            android:id="@+id/about_us"
+            android:title="@string/about_us"
+            app:showAsAction="always">
+        </item>
+        <item android:id="@+id/help"
+              android:title="@string/help"
+              app:showAsAction="always">
+        </item>
+        <item
+        android:id="@+id/action_setting"
+        android:title="@string/setting"
+        app:showAsAction="always">
+        </item>
+    </menu>
